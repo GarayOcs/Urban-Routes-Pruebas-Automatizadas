@@ -11,19 +11,19 @@ pip install pytest
 pip install selenium
 
 La lista de comprobacion es: 
-*Configurar la dirección
-*Seleccionar la tarifa Comfort
-*Rellenar el número de teléfono
-*Agregar una tarjeta de crédito
-*Escribir un mensaje para el conductor
-*Pedir una manta y pañuelos
-*Pedir 2 helados
-*Aparece el modal para buscar un taxi
-*Esperar a que aparezca la información del conductor en el modal
+1:Configurar la dirección
+2:Seleccionar la tarifa Comfort
+3:Rellenar el número de teléfono
+4:Agregar una tarjeta de crédito
+5:Escribir un mensaje para el conductor
+6:Pedir una manta y pañuelos
+7:Pedir 2 helados
+8:Aparece el modal para buscar un taxi
+9:Esperar a que aparezca la información del conductor en el modal-- nota como es la opcional si esta mal la voy a borrar porque no pienso volver a llorar por esto
 
 mi entorno de pruebas:
 python --version      
-Python 3.12.4                                                                                                                                                                                                                                   pip --version                                                                                       
+Python 3.12.4                                                                                                                                                       pip --version                                                                                       
 pip 24.0 from
 win11
 pycharm comunity edition 2024.1.4 
